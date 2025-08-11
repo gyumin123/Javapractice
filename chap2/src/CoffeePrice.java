@@ -20,5 +20,6 @@ public class CoffeePrice {
         }
         if (price != 0) System.out.print(order + "는 " + price + "원입니다.");
         sc.close();
+
     }
 }
